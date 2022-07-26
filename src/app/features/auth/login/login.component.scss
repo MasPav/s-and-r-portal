@@ -1,0 +1,12 @@
+:host {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.auth-side-wrapper {
+  background-image: url("~src/assets/images/mocks/login-background-image.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
