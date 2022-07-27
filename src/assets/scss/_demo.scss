@@ -186,14 +186,14 @@
 .brand-logo {
   font-weight: 700;
   font-size: 25px;
-  color: darken($primary, 50%);
+  color: $dark;
   span {
-    color:  darken($primary, 50%);
+    color:  $dark;
     font-weight: 400;
     font-size: 16px;
   }
   &:hover {
-    color: darken($primary, 50%);
+    color: $dark;
   }
   &.logo-light {
     color: $body-color;
